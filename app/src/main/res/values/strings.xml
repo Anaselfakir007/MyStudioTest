@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Developers Test APP</string>
+    <string name="hired_desc">Etat : %s</string>
+</resources>
